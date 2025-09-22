@@ -1,15 +1,4 @@
-{
-  "name": "nodejs-demo-app",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "express": "^5.1.0"
-  }
+"scripts": {
+  "start": "node app.js",
+  "test": "echo \"No tests yet\" && exit 0"
 }
